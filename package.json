@@ -1,0 +1,21 @@
+{
+  "name": "canvas-to-image-node",
+  "version": "1.0.0",
+  "description": "A node module version of the canvas2image script developed by https://github.com/hongru",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kyledmw/canvas-to-image-node.git"
+  },
+  "keywords": [
+    "canvas2image",
+    "node",
+    "canvas-to-image-node"
+  ],
+  "author": "Kyle Williamson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kyledmw/canvas-to-image-node/issues"
+  },
+  "homepage": "https://github.com/Kyledmw/canvas-to-image-node#readme"
+}
