@@ -1,6 +1,6 @@
 {
   "name": "canvas-to-image-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A node module version of the canvas2image script developed by https://github.com/hongru",
   "main": "index.js",
   "repository": {
