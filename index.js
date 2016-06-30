@@ -28,12 +28,6 @@ function CanvasToImage() {
         return ($support().canvas && $support().dataURL);
     }
 
-    function saveAsImage(canvas, width, height, type) {
-        if (canvasIsSupported()) {
-
-        }
-    }
-
     function getImageData(canvas) {
         let w = canvas.width;
         let h = canvas.height;
