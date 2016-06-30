@@ -20,8 +20,8 @@ https://github.com/hongru/canvas2image
 
 Implement: 
 
-*BMP
-*GIF
+* BMP
+* GIF
 
 ## License
 MIT
