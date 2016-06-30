@@ -6,19 +6,22 @@ https://github.com/hongru/canvas2image
 
 ## Code ##
 
-var CanvasToImage = require('canvas-to-image-node');
+    var CanvasToImage = require('canvas-to-image-node');
+    
+    CanvasToImage.saveAsImage(canvas, width, height, type);
+    CanvasToImage.saveAsPNG(canvas, width, height);
+    CanvasToImage.saveAsJPEG(canvas, width, height);
 
-CanvasToImage.saveAsImage(canvas, width, height, type);
-CanvasToImage.saveAsPNG(canvas, width, height);
-CanvasToImage.saveAsJPEG(canvas, width, height);
-
-CanvasToImage.convertToImage(canvas, width, height, type);
-CanvasToImage.convertToPNG(canvas, width, height);
-CanvasToImage.convertToJPEG(canvas, width, height);
+    CanvasToImage.convertToImage(canvas, width, height, type);
+    CanvasToImage.convertToPNG(canvas, width, height);
+    CanvasToImage.convertToJPEG(canvas, width, height);
 
 ## TODO
 
-Implement BMP & GIF
+Implement: 
+
+*BMP
+*GIF
 
 ## License
 MIT
