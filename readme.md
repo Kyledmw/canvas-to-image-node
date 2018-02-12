@@ -1,10 +1,10 @@
-# Canvas to Image Node Module #
+# Canvas to Image Node Module
 
 A reimplementation of the Canvas2Image client side javascript library for node.
 
 https://github.com/hongru/canvas2image
 
-## Code ##
+## Code
 
     var CanvasToImage = require('canvas-to-image-node');
     
@@ -24,4 +24,4 @@ Implement:
 * GIF
 
 ## License
-MIT
+MIT © [Kyle Williamson ](https://github.com/kyledmw)
